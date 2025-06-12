@@ -1,0 +1,1 @@
+yolo val model=obb-yolov11n-320.pt data=obb_mini_things-2\data.yaml imgsz=320 batch=16 conf=0.25 iou=0.6 device=0
