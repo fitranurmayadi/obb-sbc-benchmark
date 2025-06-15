@@ -1,0 +1,45 @@
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: Arduino-Nano
+  1: Balok-Hijau-1002525
+  2: Balok-Hijau-1005025
+  3: Balok-Jingga-1002525
+  4: Balok-Jingga-1005025
+  5: Balok-Kuning-1002525
+  6: Balok-Kuning-1005025
+  7: Balok-Merah-1002525
+  8: Balok-Merah-1005025
+  9: Cutter-Besar
+  10: Cutter-Kecil
+  11: Desoldering-Pump
+  12: ESP32-DevKit
+  13: ESP32C3-DevKit
+  14: ESP32C3-Xiao
+  15: ESP32S3-Devkit
+  16: ESP8266-NodeMCU
+  17: Gunting
+  18: Kubus-Hijau-505050
+  19: Kubus-Jingga-505050
+  20: Kubus-Kuning-505050
+  21: Kubus-Merah-505050
+  22: Marker-Pen
+  23: Obeng-Besar
+  24: Obeng-Kecil
+  25: Pulpen-Biru
+  26: Pulpen-Garis-Biru
+  27: Pulpen-Garis-Hitam
+  28: Pulpen-Hitam
+  29: STM32-Blackpill
+  30: STM32-Bluepill
+  31: Silinder-Hijau-10025
+  32: Silinder-Jingga-10025
+  33: Silinder-Kuning-10025
+  34: Silinder-Merah-10025
+  35: Soldering-Iron
+  36: Tang-Jepit-Biru
+  37: Tang-Jepit-Hitam
+  38: Tang-Potong-Biru
+  39: Tweezers
+path: C:\Users\usudl\Fitra\OBB-YOLO\datasets\obb_mini_things-3
