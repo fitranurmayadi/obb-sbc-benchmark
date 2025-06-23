@@ -1,12 +1,12 @@
 task: obb
 mode: train
-model: yolo11n-obb.pt
+model: yolo11m-obb.pt
 data: C:\Users\usudl\Fitra\OBB-YOLO\datasets\obb_mini_things-3/data.yaml
-epochs: 50
+epochs: 100
 time: null
 patience: 10
-batch: 16
-imgsz: 1280
+batch: 8
+imgsz: 640
 save: true
 save_period: -1
 cache: false

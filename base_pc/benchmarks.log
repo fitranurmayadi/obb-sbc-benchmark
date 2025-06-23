@@ -1,0 +1,21 @@
+
+Benchmarks complete for ../trained_models/yolo11n-obb-320.pt on ../datasets/obb_mini_things-3/data.yaml at imgsz=320 (58.49s)
+Benchmarks legend:  - ✅ Success  - ❎ Export passed but validation failed  - ❌️ Export failed
+                   Format Status❔  Size (MB) metrics/mAP50-95(B) Inference time (ms/im)     FPS
+0                 PyTorch       ✅        5.4              0.9224                   6.85  145.88
+1             TorchScript       ✅       10.7               0.917                   3.99  250.81
+2                    ONNX       ✅       10.3               0.917                   5.91  169.07
+3                OpenVINO       ❌        0.0                   -                      -       -
+4                TensorRT       ❌        0.0                   -                      -       -
+5                  CoreML       ❌        0.0                   -                      -       -
+6   TensorFlow SavedModel       ❌        0.0                   -                      -       -
+7     TensorFlow GraphDef       ❌        0.0                   -                      -       -
+8         TensorFlow Lite       ❌        0.0                   -                      -       -
+9     TensorFlow Edge TPU       ❌        0.0                   -                      -       -
+10          TensorFlow.js       ❌        0.0                   -                      -       -
+11           PaddlePaddle       ❌        0.0                   -                      -       -
+12                    MNN       ✅       10.2               0.917                   7.59  131.69
+13                   NCNN       ✅       10.2               0.917                   8.31  120.36
+14                    IMX       ❌        0.0                   -                      -       -
+15                   RKNN       ❌        0.0                   -                      -       -
+
