@@ -1,0 +1,4 @@
+Initial,fps,cpu_usage,gpu_usage,ram_usage,cpu_temp,gpu_temp,npu_temp,soc_temp
+,-,7.9,0,42.2,52.692,51.769,51.769,52.692
+Average,fps,cpu_usage,gpu_usage,ram_usage,cpu_temp,gpu_temp,npu_temp,soc_temp
+,30.039252668067874,22.462900000000083,7.343,43.5701999999992,57.22577600000098,54.994885000001055,55.60591099999922,56.849192000000315

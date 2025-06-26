@@ -1,0 +1,4 @@
+Initial,fps,cpu_usage,gpu_usage,ram_usage,cpu_temp,gpu_temp,npu_temp,soc_temp
+,-,9.90,0.00,47.30,52.69,50.85,50.85,51.77
+Average,fps,cpu_usage,gpu_usage,ram_usage,cpu_temp,gpu_temp,npu_temp,soc_temp
+,11.90,14.00,2.08,49.40,56.01,54.34,54.71,55.93

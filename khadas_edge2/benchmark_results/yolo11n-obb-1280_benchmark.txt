@@ -1,0 +1,18 @@
+Benchmark result for yolo11n-obb-1280 (imgsz=1280):
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)   FPS
+0                 PyTorch       ✅        5.6               0.9245                 1803.94  0.55
+1             TorchScript       ✅       11.0               0.9139                 1732.59  0.58
+2                    ONNX       ✅       10.6               0.9139                  570.40  1.75
+3                OpenVINO       ✅       10.9               0.9166                  514.92  1.94
+4                TensorRT       ❌        0.0                  NaN                     NaN   NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN   NaN
+6   TensorFlow SavedModel       ✅       27.0               0.9139                  580.83  1.72
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN   NaN
+8         TensorFlow Lite       ✅       11.1               0.9139                 1287.32  0.78
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN   NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN   NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN   NaN
+12                    MNN       ✅       10.6               0.9173                  287.39  3.48
+13                   NCNN       ✅       10.6               0.9158                  201.55  4.96
+14                    IMX       ❌        0.0                  NaN                     NaN   NaN
+15                   RKNN       ❌        0.0                  NaN                     NaN   NaN
