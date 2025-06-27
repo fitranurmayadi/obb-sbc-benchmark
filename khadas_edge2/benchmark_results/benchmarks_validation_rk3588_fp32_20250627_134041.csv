@@ -1,0 +1,2 @@
+model	format	Size(MB)	precision	recall	mAP50	mAP50_95	preprocess_ms	inference_ms	postprocess_ms	total_ms	FPS
+yolo11n-obb-320	TFLITE	10.3	0.9795	0.9924	0.9930	0.9269	0.2	70.4	1.8	72.4	13.8

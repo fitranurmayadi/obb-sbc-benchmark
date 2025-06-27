@@ -14,7 +14,7 @@ models = [
     ("yolo11n-obb-640_ncnn_model", 640, "cpu"),
     ("yolo11n-obb-320_openvino_model", 320, "cpu"),
     ("yolo11n-obb-640.mnn", 640, "cpu"),
-    ("yolo11n-obb-320_saved_model/yolo11n-obb-320_float32.tflite", 320, "cpu"),
+    ("yolo11n-obb-320_float32.tflite", 320, "cpu"),
     ("yolo11n-obb-640_rknn_model", 640, "cpu"),
     ("yolo11m-obb-320_rknn_model", 320, "cpu"),
     ("yolo11n-obb-320_saved_model", 320, "cpu"),

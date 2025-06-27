@@ -1,0 +1,4 @@
+model,imgsz,format,device,precision,recall,mAP50,mAP50_95,preprocess_ms,inference_ms,postprocess_ms,total_ms,FPS
+yolo11n-obb-320.onnx,320,ONNX,cpu,0.0000,0.0000,0.0000,0.0000,2.1,45.0,4.3,51.4,19.5
+yolo11n-obb-320_float32.tflite,320,TFLite,cpu,0.9795,0.9924,0.9930,0.9269,0.2,69.8,1.8,71.8,13.9
+yolo11n-obb-320_saved_model,320,SavedModel,cpu,0.0000,0.0000,0.0000,0.0000,0.4,79.8,2.7,82.9,12.1
