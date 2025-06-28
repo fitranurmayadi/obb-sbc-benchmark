@@ -1,0 +1,10 @@
+model,format,imgsz,fps,cpu_usage,gpu_usage,ram_usage,cpu_temp,gpu_temp,npu_temp,soc_temp
+yolo11n-obb-320_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,320,26.06,69.2,-1.0,24.1,57.0,-1.0,-1.0,-1.0
+yolo11s-obb-320_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,320,15.65,80.9,-1.0,24.7,61.8,-1.0,-1.0,-1.0
+yolo11m-obb-320_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,320,6.41,91.1,-1.0,26.2,67.0,-1.0,-1.0,-1.0
+yolo11n-obb-640_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,640,9.93,81.1,-1.0,27.0,64.5,-1.0,-1.0,-1.0
+yolo11s-obb-640_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,640,4.91,91.0,-1.0,28.6,67.6,-1.0,-1.0,-1.0
+yolo11m-obb-640_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,640,1.62,94.2,-1.0,29.4,68.8,-1.0,-1.0,-1.0
+yolo11n-obb-1280_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,1280,2.58,82.9,-1.0,25.3,65.7,-1.0,-1.0,-1.0
+yolo11s-obb-1280_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,1280,1.16,88.7,-1.0,23.9,68.0,-1.0,-1.0,-1.0
+yolo11m-obb-1280_ncnn_model_raspberrypi5_ncnn_fp16,NCNN,1280,0.39,93.5,-1.0,30.1,70.8,-1.0,-1.0,-1.0
